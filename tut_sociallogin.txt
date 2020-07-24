@@ -1,0 +1,3 @@
+via git bash 
+$ npm config set strict-ssl false
+$ npx create-react-app sociallogin
