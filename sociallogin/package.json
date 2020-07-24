@@ -1,0 +1,16 @@
+{
+  "name": "sociallogin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-google-login": "^5.1.21",
+    "reactstrap": "^8.5.1"
+  },
+  "scripts": {
+    "start": "node Dashboard.js"
+  }
+}
